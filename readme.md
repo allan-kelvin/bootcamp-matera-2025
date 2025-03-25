@@ -125,10 +125,3 @@ projeto-java/
 1. Clone o repositório: `git clone https://github.com/seu-usuario/projeto-java.git`
 2. Compile o projeto: `javac -d bin src/*.java`
 3. Execute o programa: `java -cp bin com.exemplo.Main`
-
-### 📜 Licença
-
-Este projeto está sob a licença MIT.
-
-não
-
